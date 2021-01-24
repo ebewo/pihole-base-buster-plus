@@ -1,4 +1,4 @@
-ARG FRM='pihole/pihole:v5.5.1-buster'
+ARG FRM='pihole/pihole:latest'
 ARG TAG='latest'
 
 FROM ${FRM}
